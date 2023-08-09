@@ -1,4 +1,4 @@
-package me.grantland.autofittextview.sample;
+package me1.grantland.autofittextview.sample;
 
 import android.app.Activity;
 import android.os.Bundle;

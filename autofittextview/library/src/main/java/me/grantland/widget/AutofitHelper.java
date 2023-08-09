@@ -1,4 +1,4 @@
-package me.grantland.widget;
+package me1.grantland.widget;
 
 import android.content.Context;
 import android.content.res.Resources;

@@ -9,7 +9,27 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dce26181-d4bb-48cc-9c73-bfc1daaff9e1" name="Changes" comment="" />
+    <list default="true" id="dce26181-d4bb-48cc-9c73-bfc1daaff9e1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autofittextview/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/autofittextview/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autofittextview/library/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autofittextview/library/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autofittextview/library/src/main/java/me/grantland/widget/AutofitHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/autofittextview/library/src/main/java/me/grantland/widget/AutofitHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autofittextview/library/src/main/java/me/grantland/widget/AutofitLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/autofittextview/library/src/main/java/me/grantland/widget/AutofitLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autofittextview/library/src/main/java/me/grantland/widget/AutofitTextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/autofittextview/library/src/main/java/me/grantland/widget/AutofitTextView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autofittextview/sample/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autofittextview/sample/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autofittextview/sample/src/main/java/me/grantland/autofittextview/sample/SampleActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/autofittextview/sample/src/main/java/me/grantland/autofittextview/sample/SampleActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autofittextview/sample/src/main/res/layout-land/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autofittextview/sample/src/main/res/layout-land/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autofittextview/sample/src/main/res/layout/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autofittextview/sample/src/main/res/layout/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/me/grantland/widget/AutofitHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/me/grantland/widget/AutofitLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/me/grantland/widget/AutofitTextView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/java/me/grantland/autofittextview/sample/SampleActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/res/layout-land/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/res/layout-land/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/res/layout/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/res/layout/main.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +57,10 @@
     <property name="android-custom-viewD:/Project/Android/android-autofittextview-0.2.1/library/src/main/java/me/grantland/widget/AutofitLayout.java_SELECTED" value="AutofitLayout" />
     <property name="android-custom-viewD:/Project/Android/android-autofittextview-0.2.1/library/src/main/java/me/grantland/widget/AutofitTextView.java_AutofitTextView_DIMENSIONS" value="1080&#10;1920" />
     <property name="android-custom-viewD:/Project/Android/android-autofittextview-0.2.1/library/src/main/java/me/grantland/widget/AutofitTextView.java_SELECTED" value="AutofitTextView" />
+    <property name="android-custom-viewD:/Project/Android/android-autofittextview-0.2.1/library/src/main/java/me1/grantland/widget/AutofitLayout.java_AutofitLayout_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewD:/Project/Android/android-autofittextview-0.2.1/library/src/main/java/me1/grantland/widget/AutofitLayout.java_SELECTED" value="AutofitLayout" />
+    <property name="android-custom-viewD:/Project/Android/android-autofittextview-0.2.1/library/src/main/java/me1/grantland/widget/AutofitTextView.java_AutofitTextView_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewD:/Project/Android/android-autofittextview-0.2.1/library/src/main/java/me1/grantland/widget/AutofitTextView.java_SELECTED" value="AutofitTextView" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
